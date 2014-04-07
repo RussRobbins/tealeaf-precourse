@@ -27,7 +27,7 @@
 
 
 # Table of Contents - Went on and learned arrays and for loops because I'm lazy
-line_width = 50
+line_width = 60
 header = "Table of Contents"
 chapters = ["Chapter 1: Getting Started", "Chapter 2: Numbers", "Chapter 3: Letters"]
 pages = ["page 1 ", "page 9", "page 13"]
